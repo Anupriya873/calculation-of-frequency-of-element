@@ -40,5 +40,5 @@ printf("freq of %d is %d\n",a[i],freq);
  if(freq>1)
 {i=i+freq-1;}
 }
-        return 0;
+      getch();
 }
